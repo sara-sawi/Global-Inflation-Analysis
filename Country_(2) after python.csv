@@ -1,0 +1,186 @@
+﻿Country_ID,Country_Code,Country_Name
+C-000001,ABW,Aruba
+C-000002,AFG,Afghanistan
+C-000003,AGO,Angola
+C-000004,ALB,Albania
+C-000005,ARE,United Arab Emirates
+C-000006,ARG,Argentina
+C-000007,ARM,Armenia
+C-000008,ATG,Antigua and Barbuda
+C-000009,AUT,Austria
+C-000010,AZE,Azerbaijan
+C-000011,BDI,Burundi
+C-000012,BEL,Belgium
+C-000013,BEN,Benin
+C-000014,BFA,Burkina Faso
+C-000015,BGD,Bangladesh
+C-000016,BGR,Bulgaria
+C-000017,BHR,Bahrain
+C-000018,BHS,Bahamas
+C-000019,BIH,Bosnia and Herzegovina
+C-000020,BLR,Belarus
+C-000021,BLZ,Belize
+C-000022,BOL,Bolivia
+C-000023,BRA,Brazil
+C-000024,BRB,Barbados
+C-000025,BRN,Brunei Darussalam
+C-000026,BTN,Bhutan
+C-000027,BWA,Botswana
+C-000028,CAF,Central African Republic
+C-000029,CAN,Canada
+C-000030,CHE,Switzerland
+C-000031,CHL,Chile
+C-000032,CHN,China
+C-000033,CIV,Cote d'Ivoire
+C-000034,CMR,Cameroon
+C-000035,COD,"Congo, Dem. Rep."
+C-000036,COG,"Congo, Rep."
+C-000037,COL,Colombia
+C-000038,COM,Comoros
+C-000039,CPV,Cabo Verde
+C-000040,CRI,Costa Rica
+C-000041,CUW,Curacao
+C-000042,CYP,Cyprus
+C-000043,CZE,Czech Republic
+C-000044,DEU,Germany
+C-000045,DJI,Djibouti
+C-000046,DMA,Dominica
+C-000047,DNK,Denmark
+C-000048,DOM,Dominican Republic
+C-000049,DZA,Algeria
+C-000050,ECU,Ecuador
+C-000051,EGY,"Egypt, Arab Rep."
+C-000052,ESP,Spain
+C-000053,EST,Estonia
+C-000054,ETH,Ethiopia
+C-000055,FIN,Finland
+C-000056,FJI,Fiji
+C-000057,FRA,France
+C-000058,GAB,Gabon
+C-000059,GBR,United Kingdom
+C-000060,GEO,Georgia
+C-000061,GHA,Ghana
+C-000062,GIN,Guinea
+C-000063,GMB,"Gambia, The"
+C-000064,GNB,Guinea-Bissau
+C-000065,GNQ,Equatorial Guinea
+C-000066,GRC,Greece
+C-000067,GRD,Grenada
+C-000068,GTM,Guatemala
+C-000069,GUY,Guyana
+C-000070,HKG,"Hong Kong SAR, China"
+C-000071,HND,Honduras
+C-000072,HRV,Croatia
+C-000073,HTI,Haiti
+C-000074,HUN,Hungary
+C-000075,IDN,Indonesia
+C-000076,IND,India
+C-000077,IRL,Ireland
+C-000078,IRN,"Iran, Islamic Rep."
+C-000079,IRQ,Iraq
+C-000080,ISL,Iceland
+C-000081,ISR,Israel
+C-000082,ITA,Italy
+C-000083,JAM,Jamaica
+C-000084,JOR,Jordan
+C-000085,JPN,Japan
+C-000086,KAZ,Kazakhstan
+C-000087,KEN,Kenya
+C-000088,KGZ,Kyrgyz Republic
+C-000089,KHM,Cambodia
+C-000090,KIR,Kiribati
+C-000091,KNA,St. Kitts and Nevis
+C-000092,KOR,"Korea, Rep."
+C-000093,KWT,Kuwait
+C-000094,LAO,"Lao, PDR"
+C-000095,LBN,Lebanon
+C-000096,LBR,Liberia
+C-000097,LBY,Libya
+C-000098,LCA,St. Lucia
+C-000099,LIE,Liechtenstein
+C-000100,LKA,Sri Lanka
+C-000101,LSO,Lesotho
+C-000102,LTU,Lithuania
+C-000103,LUX,Luxembourg
+C-000104,LVA,Latvia
+C-000105,MAC,"Macao SAR, China"
+C-000106,MAR,Morocco
+C-000107,MDA,"Moldova, Rep."
+C-000108,MDG,Madagascar
+C-000109,MDV,Maldives
+C-000110,MEX,Mexico
+C-000111,MKD,North Macedonia
+C-000112,MLI,Mali
+C-000113,MLT,Malta
+C-000114,MMR,Myanmar
+C-000115,MNE,Montenegro
+C-000116,MNG,Mongolia
+C-000117,MOZ,Mozambique
+C-000118,MRT,Mauritania
+C-000119,MSR,Montserratit
+C-000120,MUS,Mauritius
+C-000121,MWI,Malawi
+C-000122,MYS,Malaysia
+C-000123,NAM,Namibia
+C-000124,NER,Niger
+C-000125,NGA,Nigeria
+C-000126,NIC,Nicaragua
+C-000127,NLD,Netherlands
+C-000128,NOR,Norway
+C-000129,NPL,Nepal
+C-000130,OMN,Oman
+C-000131,PAK,Pakistan
+C-000132,PAN,Panama
+C-000133,PER,Peru
+C-000134,PHL,Philippines
+C-000135,POL,Poland
+C-000136,PRT,Portugal
+C-000137,PRY,Paraguay
+C-000138,PSE,West Bank and Gaza
+C-000139,QAT,Qatar
+C-000140,ROU,Romania
+C-000141,RUS,Russian Federation
+C-000142,RWA,Rwanda
+C-000143,SAU,Saudi Arabia
+C-000144,SDN,Sudan
+C-000145,SEN,Senegal
+C-000146,SGP,Singapore
+C-000147,SLB,Solomon Islands
+C-000148,SLE,Sierra Leone
+C-000149,SLV,El Salvador
+C-000150,SMR,San Marino
+C-000151,SRB,Serbia
+C-000152,SSD,South Sudan
+C-000153,STP,Sao Tome and Principe
+C-000154,SUR,Suriname
+C-000155,SVK,Slovakia
+C-000156,SVN,Slovenia
+C-000157,SWE,Sweden
+C-000158,SWZ,Eswatini
+C-000159,SYC,Seychelles
+C-000160,SYR,Syrian Arab Republic
+C-000161,TCD,Chad
+C-000162,TGO,Togo
+C-000163,THA,Thailand
+C-000164,TJK,Tajikistan
+C-000165,TLS,Timor-Leste
+C-000166,TON,Tonga
+C-000167,TTO,Trinidad and Tobago
+C-000168,TUN,Tunisia
+C-000169,TUR,Turkey
+C-000170,TZA,"Tanzania, United Rep."
+C-000171,UGA,Uganda
+C-000172,UKR,Ukraine
+C-000173,URY,Uruguay
+C-000174,USA,United States
+C-000175,UZB,Uzbekistan
+C-000176,VCT,St. Vincent and the Grenadines
+C-000177,VEN,"Venezuela, RB"
+C-000178,VGB,British Virgin Islands
+C-000179,VNM,Vietnam
+C-000180,WSM,Samoa
+C-000181,XKX,Kosovo
+C-000182,YEM,"Yemen, Rep."
+C-000183,ZAF,South Africa
+C-000184,ZMB,Zambia
+C-000185,ZWE,Zimbabwe
