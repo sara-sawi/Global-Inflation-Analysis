@@ -221,80 +221,6 @@ The project focuses on identifying meaningful patterns from the data, including:
 
 > **Note:** The final insights are based on the results of the analyzed dataset and dashboard.
 
----
-
-## 📁 Project Structure
-
-```text
-Global-Inflation-Dynamics/
-│
-├── README.md
-│
-├── Data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── PowerBI/
-│   └── Global_Inflation_Dashboard.pbix
-│
-├── Excel/
-│   └── Inflation_Data.xlsx
-│
-├── Images/
-│   └── dashboard.png
-│
-└── Documentation/
-    └── project_documentation.pdf
-```
-
----
-
-## 🔍 Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Power BI
-* DAX
-* Power Query
-* Dashboard Design
-* KPI Development
-* Trend Analysis
-* Comparative Analysis
-* Data Storytelling
-
----
-
-## ⚠️ Data Limitations
-
-Some limitations should be considered when interpreting the results:
-
-* Some countries may have missing data for certain years.
-* Data availability may vary between countries.
-* Inflation measurement can differ between countries.
-* Extreme inflation values can significantly affect averages.
-* The analysis describes historical trends and does not establish causation.
-
----
-
-## 🚀 Future Improvements
-
-Future versions of this project could include additional economic indicators such as:
-
-* GDP Growth
-* Exchange Rates
-* Interest Rates
-* Unemployment
-* Population
-* Consumer Price Index
-* Economic Growth
-
-The project could also be extended to investigate relationships between inflation and other economic indicators.
-
----
 
 ## 📝 Conclusion
 
@@ -316,20 +242,6 @@ World Bank – World Development Indicators
 **Indicator Code:** `FP.CPI.TOTL.ZG`
 
 ---
-
-## ⭐ Project Status
-
-**Completed**
-
-This project was developed as a Data Analysis Portfolio Project focusing on global inflation trends from **2000 to 2025**.
-
----
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes.
-
-The underlying World Bank data is available under the **CC BY 4.0** license.
 
 
 <img width="1170" height="643" alt="Screenshot 2026-09-11 160532" src="https://github.com/user-attachments/assets/6e1a67aa-ad78-4d2a-bbdf-f88fe8f4aead" />
